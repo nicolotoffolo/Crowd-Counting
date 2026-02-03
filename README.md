@@ -3,7 +3,7 @@
 This project provides a comparative analysis of various crowd counting architectures, exploring deep learning alternatives to the multi-column baseline proposed by **Zhang et al.**
 
 ### 📌 Project Overview
-The goal of this research is to evaluate model performance in estimating pedestrian density. We focus on addressing common challenges such as scale variation and perspective distortion.
+The goal of this research is to evaluate model performance in estimating number of people on a given image. We focus on addressing common challenges such as scale variation and perspective distortion, while trying to explore different models.
 
 ### 📁 What's Inside
 - **Complete Source Code:** Implementation of the architectures and training pipelines.
