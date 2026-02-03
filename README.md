@@ -13,6 +13,7 @@ The goal of this research is to evaluate model performance in estimating pedestr
 ### 🛠️ Key Features
 - Implementation of [MCNN], [Res-Net18], [SOTA Res-Net18] and [PET Quadtree] as alternatives to Zhang et al.
 - Density map generation and visualization.
+- Point Query Quadtree and synthetic point generation.
 - Performance evaluation using standard metrics (MAE).
 
 * Mall dataset is required to work with the python notebook provided
